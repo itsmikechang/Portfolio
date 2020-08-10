@@ -1,0 +1,44 @@
+.mikeheadshot {
+  height: 300px;
+  width: 300px;
+  float: left;
+  margin-top: 20px;
+}
+
+.about {
+  margin-top: 20px;
+  margin-left: 40px;
+}
+
+
+#contact-form {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.contactmike {
+  margin-left: 20px;
+  margin-top: 10px
+}
+
+.col-sm-5 {
+  margin-left: 20px;
+}
+
+.row {
+  margin-top: 20px;
+}
+
+.mynameis {
+  word-wrap: break-word;
+}
+
+h1 {
+  padding-left: 55px;
+  padding-top: 20px;
+
+}
+
+p {
+  padding-left: 55px;
+}
